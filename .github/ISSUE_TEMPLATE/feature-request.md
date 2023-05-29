@@ -4,14 +4,13 @@ about: Suggest your Project Ideas
 title: Project Title (Please Change)
 labels: ''
 assignees: ''
-
 ---
 
 <!--PLEASE ANSWER THE QUESTIONS GIVEN BELOW-->
 <!--================================-->
 
-# Heading
-Add your project title.
+# Heading - Your project title.
+
 
 ## Project Abstract
 A clear description of your project idea.
